@@ -3,3 +3,9 @@ def print_hello():
 
 
 print_hello()
+
+
+def print_u():
+    print("Currently using windows")
+
+print_u()
